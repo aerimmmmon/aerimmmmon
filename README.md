@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-
+- 🔭 I’m currently working on KEPCO
+- 🌱 I’m currently learning ANYTHING
+- 📫 How to reach me: ae_rim@kepco.co.kr
 
 <!--
 **aerimmmmon/aerimmmmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
